@@ -4,6 +4,10 @@
 
 Dark/light colorscheme for vim.
 
+Based on palette of quiet__ (@neutaaaaan).
+
+__ https://github.com/vim/colorschemes/blob/master/colortemplate/quiet.colortemplate
+
 
 .. image:: https://user-images.githubusercontent.com/234774/193445319-27bb7a6e-efd8-48e4-a6b1-1f98cce32f20.png
 
