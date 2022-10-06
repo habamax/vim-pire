@@ -179,10 +179,10 @@ diffRemoved                    color01        none
 
 Variant: gui 256 16
 ; other ftplugins
-dirType                        color05        none
-dirPermissionUser              color02        none
-dirPermissionGroup             color03        none
-dirPermissionOther             color06        none
+dirType                        color03        none
+dirPermissionUser              color16        none
+dirPermissionGroup             color02        none
+dirPermissionOther             color05        none
 dirOwner                       color08        none
 dirGroup                       color08        none
 dirTime                        color08        none
@@ -444,10 +444,10 @@ diffRemoved                    color09        none
 
 Variant: gui 256 16
 ; other ftplugins
-dirType                        color05        none
-dirPermissionUser              color02        none
-dirPermissionGroup             color03        none
-dirPermissionOther             color06        none
+dirType                        color03        none
+dirPermissionUser              color16        none
+dirPermissionGroup             color02        none
+dirPermissionOther             color05        none
 dirOwner                       color08        none
 dirGroup                       color08        none
 dirTime                        color08        none
