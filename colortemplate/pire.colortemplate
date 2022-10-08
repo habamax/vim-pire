@@ -187,7 +187,7 @@ dirOwner                       color08        none
 dirGroup                       color08        none
 dirTime                        color08        none
 dirSize                        color11        none
-dirSizeMod                     color04        none
+dirSizeMod                     color02        none
 dirLink                        color02        none
 FilterMenuDirectorySubtle      colorDim       none
 dirFilterMenuBookmarkPath      colorDim       none
@@ -452,7 +452,7 @@ dirOwner                       color08        none
 dirGroup                       color08        none
 dirTime                        color08        none
 dirSize                        color03        none
-dirSizeMod                     color04        none
+dirSizeMod                     color02        none
 dirLink                        color02        none
 dirFilterMenuBookmarkPath      colorDim       none
 dirFilterMenuHistoryPath       colorDim       none
