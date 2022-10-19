@@ -93,7 +93,7 @@ EndOfBuffer                    colorNonT      none
 SpecialKey                     colorNonT      none
 
 Pmenu                          color07        colorB
-PmenuSel                       color00        color10
+PmenuSel                       color00        color11
 PmenuThumb                     none           color07
 PmenuSbar                      none           none
 
@@ -106,11 +106,11 @@ MoreMsg                        color10        none
 Question                       color13        none
 WarningMsg                     color11        none
 
-Todo                           color10        color00        reverse
-Search                         color00        color12
+Todo                           color16        color00        reverse
+Search                         color00        color10
 IncSearch                      color00        color11
-CurSearch                      color00        color10
-WildMenu                       color00        color10
+CurSearch                      color00        color11
+WildMenu                       color00        color11
 
 debugPC                        color04        none           reverse
 debugBreakpoint                color06        none           reverse
@@ -122,7 +122,7 @@ lCursor                        colorlC        color00        reverse
 
 
 Variant: gui 256 16
-Visual                         color00        color11
+Visual                         color00        color12
 VisualNOS                      color00        color03
 MatchParen                     colorMP        color00        reverse
 
@@ -220,7 +220,7 @@ SpecialKey                     color00        none
 Pmenu                          color00        color07
 PmenuThumb                     none           color02
 PmenuSbar                      none           none
-PmenuSel                       color00        color02
+PmenuSel                       color00        color03
 
 SignColumn                     none           none
 
@@ -231,11 +231,11 @@ MoreMsg                        color02        none
 Question                       color05        none
 WarningMsg                     color03        none
 
-Todo                           color02        color00        reverse
-Search                         color04        color00        reverse
+Todo                           color16        color00        reverse
+Search                         color02        color00        reverse
 IncSearch                      color03        color00        reverse
-CurSearch                      color02        color00        reverse
-WildMenu                       color00        color02
+CurSearch                      color03        color00        reverse
+WildMenu                       color00        color03
 
 debugPC                        color04        none           reverse
 debugBreakpoint                color06        none           reverse
@@ -358,7 +358,7 @@ EndOfBuffer                    colorNonT      none
 SpecialKey                     colorNonT      none
 
 Pmenu                          color00        colorB
-PmenuSel                       color00        color10
+PmenuSel                       color15        color11
 PmenuThumb                     none           color08
 PmenuSbar                      none           none
 
@@ -371,11 +371,11 @@ MoreMsg                        color02        none
 Question                       color05        none
 WarningMsg                     color03        none
 
-Todo                           color02        color15        reverse
-Search                         color15        color12
+Todo                           color16        color15        reverse
+Search                         color15        color02
 IncSearch                      color15        color11
 CurSearch                      color15        color11
-WildMenu                       color00        color10
+WildMenu                       color15        color11
 
 debugPC                        color04        none           reverse
 debugBreakpoint                color06        none           reverse
@@ -387,7 +387,7 @@ lCursor                        colorlC        color00        reverse
 
 
 Variant: gui 256 16
-Visual                         color15        color11
+Visual                         color15        color04
 VisualNOS                      color00        color03
 MatchParen                     colorMP        color15        reverse
 
@@ -486,7 +486,7 @@ SpecialKey                     color00        none
 Pmenu                          color07        color00
 PmenuThumb                     none           color02
 PmenuSbar                      none           none
-PmenuSel                       none           color02
+PmenuSel                       none           color03
 
 SignColumn                     none           none
 
@@ -497,11 +497,11 @@ MoreMsg                        color02        none
 Question                       color05        none
 WarningMsg                     color03        none
 
-Todo                           color02        color00        reverse
-Search                         color00        color04
-IncSearch                      color00        color03
-CurSearch                      color00        color02
-WildMenu                       color00        color02
+Todo                           color16        color00        reverse
+Search                         color02        color00        reverse
+IncSearch                      color03        color00        reverse
+CurSearch                      color03        color00        reverse
+WildMenu                       color00        color03
 
 debugPC                        color04        none           reverse
 debugBreakpoint                color06        none           reverse
