@@ -101,7 +101,7 @@ SignColumn                     none           none
 
 Error                          color15        color01
 ErrorMsg                       color15        color01
-ModeMsg                        color14        none           reverse
+ModeMsg                        none           none           bold
 MoreMsg                        color10        none
 Question                       color13        none
 WarningMsg                     color11        none
@@ -226,7 +226,7 @@ SignColumn                     none           none
 
 Error                          color07        color01
 ErrorMsg                       color07        color01
-ModeMsg                        color06        none           reverse
+ModeMsg                        none           none           bold
 MoreMsg                        color02        none
 Question                       color05        none
 WarningMsg                     color03        none
@@ -366,7 +366,7 @@ SignColumn                     none           none
 
 Error                          color15        color09
 ErrorMsg                       color15        color09
-ModeMsg                        color06        none           reverse
+ModeMsg                        none           none           bold
 MoreMsg                        color02        none
 Question                       color05        none
 WarningMsg                     color03        none
@@ -492,7 +492,7 @@ SignColumn                     none           none
 
 Error                          color15        color01
 ErrorMsg                       color15        color01
-ModeMsg                        color06        none           reverse
+ModeMsg                        none           none           bold
 MoreMsg                        color02        none
 Question                       color05        none
 WarningMsg                     color03        none
