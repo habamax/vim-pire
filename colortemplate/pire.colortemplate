@@ -15,6 +15,7 @@ LineNrAbove                    -> LineNr
 LineNrBelow                    -> LineNr
 MessageWindow                  -> PMenu
 PopupNotification              -> Todo
+CurSearch                      -> Search
 
 
 Background: dark
@@ -109,7 +110,6 @@ WarningMsg                     color11        none
 Todo                           color16        color00        reverse
 Search                         color00        color10
 IncSearch                      color00        color11
-CurSearch                      color00        color11
 WildMenu                       color00        color11
 
 debugPC                        color04        none           reverse
@@ -234,7 +234,6 @@ WarningMsg                     color03        none
 Todo                           color16        color00        reverse
 Search                         color02        color00        reverse
 IncSearch                      color03        color00        reverse
-CurSearch                      color03        color00        reverse
 WildMenu                       color00        color03
 
 debugPC                        color04        none           reverse
@@ -374,7 +373,6 @@ WarningMsg                     color03        none
 Todo                           color16        color15        reverse
 Search                         color15        color02
 IncSearch                      color15        color11
-CurSearch                      color15        color11
 WildMenu                       color15        color11
 
 debugPC                        color04        none           reverse
@@ -500,7 +498,6 @@ WarningMsg                     color03        none
 Todo                           color16        color00        reverse
 Search                         color02        color00        reverse
 IncSearch                      color03        color00        reverse
-CurSearch                      color03        color00        reverse
 WildMenu                       color00        color03
 
 debugPC                        color04        none           reverse
