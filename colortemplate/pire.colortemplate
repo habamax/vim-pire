@@ -21,7 +21,7 @@ CurSearch                      -> Search
 Background: dark
 
 ;;; Color palette
-Color: color00                 #000000        16            black
+Color: color00                 #000000        16             black
 Color: color08                 #767676        243            darkgrey
 
 Color: color01                 #d7005f        161            darkred
