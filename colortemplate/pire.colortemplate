@@ -290,7 +290,7 @@ Color: color01                 #af0000        124            darkred
 Color: color09                 #d70000        160            red
 
 Color: color02                 #008700        28             darkgreen
-Color: color10                 #87D787        114            green
+Color: color10                 #5faf5f        71             green
 
 Color: color03                 #af5f00        130            darkyellow
 Color: color11                 #d78700        172            yellow
