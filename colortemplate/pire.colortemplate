@@ -319,7 +319,7 @@ Color: colorlC                 #FF00FF        201            magenta
 Color: colorV                  #5F87AF        67             darkblue
 Color: colorMP                 #C5E7C5        30             darkcyan
 Color: colorDim                #626262        241            darkgrey
-Color: colorSt                 #5f5f5f        59            darkgrey
+Color: colorSt                 #5f5f5f        59             darkgrey
 
 
 ; Diff colors
