@@ -25,7 +25,7 @@ Color: color00                 #000000        16             black
 Color: color08                 #767676        243            darkgrey
 
 Color: color01                 #d7005f        161            darkred
-Color: color09                 #ff005f        197            red
+Color: color09                 #ff5f87        204            red
 
 Color: color02                 #00af5f        35             darkgreen
 Color: color10                 #00d75f        41             green
