@@ -19,7 +19,7 @@ With the following in your vimrc, it might look a bit different:
 .. code::
 
   def RePire()
-      if &background == 'dark' && &t_Co->str2nr() >= 256
+      if &background == 'dark'
           hi Normal      ctermbg=NONE guibg=#1c1c1c
           hi TablineSel  ctermbg=NONE guibg=#1c1c1c
           hi Folded      ctermbg=233  guibg=#121212
