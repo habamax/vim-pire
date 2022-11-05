@@ -155,7 +155,7 @@ Variant: gui 256 16
 Comment                        color08        none
 Constant                       color09        none
 String                         color10        none
-Identifier                     none           none
+Identifier                     color13        none
 
 Statement                      color12        none
 Type                           color11        none
@@ -402,7 +402,7 @@ Variant: gui 256 16
 Comment                        color07        none
 Constant                       color01        none
 String                         color02        none
-Identifier                     none           none
+Identifier                     color05        none
 
 Statement                      color04        none
 Type                           color03        none
