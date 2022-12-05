@@ -62,7 +62,7 @@ Color: diffAdd                 #1C3A1C        65             darkmagenta
 Color: diffAddFg               #afffaf        157            black
 Color: diffDelete              #875f5f        95             darkred
 Color: diffDeleteFg            #ffafaf        217            black
-Color: diffChange              #3A3A30        59             lightgray
+Color: diffChange              #303030        59             lightgray
 Color: diffChangeFg            #d0d0d0        252            black
 Color: diffText                #6c4f1C        101            cyan
 Color: diffTextFg              #ffffaf        229            black
