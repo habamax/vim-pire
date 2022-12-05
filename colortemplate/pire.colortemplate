@@ -309,8 +309,8 @@ Color: colorSt                 #5f5f5f        59             darkgrey
 
 
 ; Diff colors
-Color: diffAdd                 #d7ffd7        194            darkmagenta
-Color: diffAddFg               #5f875f        65            black
+Color: diffAdd                 #afd7af        151            darkmagenta
+Color: diffAddFg               #005f00        22             black
 Color: diffDelete              #ffd7d7        224            darkred
 Color: diffDeleteFg            #875f5f        95             black
 Color: diffChange              #dadada        253            lightgray
