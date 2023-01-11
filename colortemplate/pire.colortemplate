@@ -119,7 +119,7 @@ debugBreakpoint                color06        none           reverse
 
 
 Variant: gui
-Cursor                         none           none           reverse
+Cursor                         color15        color00        reverse
 lCursor                        colorlC        color00        reverse
 
 
@@ -370,7 +370,7 @@ debugBreakpoint                color06        none           reverse
 
 
 Variant: gui
-Cursor                         none           none           reverse
+Cursor                         color00        color15        reverse
 lCursor                        colorlC        color00        reverse
 
 
