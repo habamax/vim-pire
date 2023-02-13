@@ -2,6 +2,8 @@
                           vim-pire colorscheme
 ================================================================================
 
+*This colorscheme is put into vim under wildcharm name*: https://github.com/vim/colorschemes/pull/218
+
 Dark/light colorscheme for vim.
 
 Based on palette of quiet__ (@neutaaaaan).
